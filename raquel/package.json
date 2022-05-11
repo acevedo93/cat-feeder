@@ -1,0 +1,14 @@
+{
+  "name": "raquel",
+  "version": "1.0.0",
+  "description": "raquel-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Acevedo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
